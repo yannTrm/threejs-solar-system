@@ -40,6 +40,13 @@ Explore the wonders of our solar system through this mesmerizing JavaScript proj
 
 - Use the **Space bar** to toggle the rotation of the solar system.
 
+## About the Project
+
+
+- **Development Period:**
+  - Worked on this project in 2023 during my Master's in MMVAI at Paris Saclay.
+
+
 ## Acknowledgments
 
 Special thanks to the powerful combination of Node.js, npm, and Three.js for making this interactive solar system visualization possible.
